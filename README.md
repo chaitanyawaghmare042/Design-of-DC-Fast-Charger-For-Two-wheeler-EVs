@@ -275,7 +275,7 @@ The feedback system utilizes a **TL431 Precision Reference IC** and **PC817 Opto
 
 ### Deep Vaidya
 
-### Ritesh Pail
+
 
 **Department of Electrical Engineering**
 
