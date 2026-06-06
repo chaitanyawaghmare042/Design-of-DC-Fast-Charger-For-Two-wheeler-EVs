@@ -173,6 +173,31 @@ The feedback system utilizes a **TL431 Precision Reference IC** and **PC817 Opto
 * Prevents battery overcharging.
 
 ---
+# 📷 **PROJECT GALLERY**
+
+## 🔧 **Commercial EV Charger Hardware**
+
+![Commercial EV Charger Hardware](images/charger_hardware.jpg)
+
+*Practical teardown and analysis of a commercial lithium-ion EV charger used for studying internal architecture, thermal management, power components, and charging techniques.*
+
+---
+
+## 🖥️ **PCB Layout Design**
+
+![PCB Layout Design](images/pcb_layout.png)
+
+*Proposed PCB layout of the 67.2V, 30A isolated SMPS-based EV charger showing EMI filtering, bridge rectification, MOSFET switching, transformer isolation, feedback control, and output regulation stages.*
+
+---
+
+## ⚡ **Complete Circuit Schematic**
+
+![Complete Circuit Schematic](images/circuit_schematic.jpg)
+
+*Complete circuit schematic of the high-power isolated DC fast charger including AC input protection, SMPS power stage, transformer isolation, secondary rectification, feedback regulation, and CC-CV charging control.*
+
+---
 
 # 📊 **EXPERIMENTAL RESULTS**
 
