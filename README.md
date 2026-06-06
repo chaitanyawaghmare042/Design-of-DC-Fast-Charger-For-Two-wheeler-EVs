@@ -195,6 +195,19 @@ The feedback system utilizes a **TL431 Precision Reference IC** and **PC817 Opto
 
 ![Complete Circuit Schematic](images/circuit_schematic.jpg)
 
+Smart-Battery-Charger-for-Two-Wheeler-EV/
+│
+├── README.md
+│
+├── images/
+│   ├── charger_hardware.jpg
+│   ├── pcb_layout.png
+│   └── circuit_schematic.jpg
+│
+├── Project_Report.pdf
+├── Presentation.pptx
+└── Source_Files/
+
 *Complete circuit schematic of the high-power isolated DC fast charger including AC input protection, SMPS power stage, transformer isolation, secondary rectification, feedback regulation, and CC-CV charging control.*
 ---
 
