@@ -196,7 +196,6 @@ The feedback system utilizes a **TL431 Precision Reference IC** and **PC817 Opto
 ![Complete Circuit Schematic](images/circuit_schematic.jpg)
 
 *Complete circuit schematic of the high-power isolated DC fast charger including AC input protection, SMPS power stage, transformer isolation, secondary rectification, feedback regulation, and CC-CV charging control.*
-
 ---
 
 # 📊 **EXPERIMENTAL RESULTS**
