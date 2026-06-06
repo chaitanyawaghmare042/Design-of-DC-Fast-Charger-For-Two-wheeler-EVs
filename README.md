@@ -1,1 +1,5 @@
-# Design-of-DC-Fast-Charger-For-Two-wheeler-EVs
+![EV](https://img.shields.io/badge/Electric-Vehicle-green)
+![SMPS](https://img.shields.io/badge/SMPS-Design-blue)
+![Power Electronics](https://img.shields.io/badge/Power-Electronics-orange)
+![Fast Charger](https://img.shields.io/badge/Fast-DC%20Charger-red)
+![COEP](https://img.shields.io/badge/COEP-Tech-purple)
